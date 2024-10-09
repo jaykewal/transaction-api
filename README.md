@@ -40,5 +40,3 @@ This project is a RESTful API built using **Node.js**, **Express**, and **MongoD
 3. `GET /statistics`: Provides sales and transaction statistics for a given month.
 
 ---
-
-You can include this in your **GitHub README.md** file or as part of the repository’s **description** on GitHub. Let me know if you'd like more specific details or modifications!
